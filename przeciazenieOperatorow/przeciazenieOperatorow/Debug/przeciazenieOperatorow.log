@@ -1,0 +1,5 @@
+﻿  Table.cpp
+  przeciazenieOperatorow.cpp
+  Generating Code...
+C:\Users\mario\source\repos\przeciazenieOperatorow\przeciazenieOperatorow\Table.cpp(91): warning C4172: returning address of local variable or temporary: clonedTable
+  przeciazenieOperatorow.vcxproj -> C:\Users\mario\source\repos\przeciazenieOperatorow\Debug\przeciazenieOperatorow.exe

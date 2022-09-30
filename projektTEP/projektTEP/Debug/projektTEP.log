@@ -1,0 +1,6 @@
+﻿  projektTEP.cpp
+C:\Users\mario\source\repos\projektTEP\projektTEP\projektTEP.cpp(13,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\mario\source\repos\projektTEP\projektTEP\projektTEP.cpp(23,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mario\source\repos\projektTEP\projektTEP\projektTEP.cpp(23,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mario\source\repos\projektTEP\projektTEP\projektTEP.cpp(36,23): warning C4018: '<': signed/unsigned mismatch
+  projektTEP.vcxproj -> C:\Users\mario\source\repos\projektTEP\Debug\projektTEP.exe
